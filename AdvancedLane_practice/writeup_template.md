@@ -55,7 +55,7 @@ To demonstrate this step, I will describe how I apply the distortion correction 
 
 I used a combination of color and gradient thresholds to generate a binary image (thresholding steps at lines # through # in `image_gen-color_gradient.py.ipynb`).  Here's an example of my output for this step.  (note: this is not actually from one of the test images)
 
-![color_gradient](./test_images/color_gradient2.jpg)
+![color_gradient](./test_images/color_gradient3.jpg)
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 

@@ -1,5 +1,5 @@
 ## Advanced Lane Finding
-![Lanes Image](./test_images/cal_curvature0.jpg)
+![Lanes Image](./test_images/final5.jpg)
 ---
 
 **Advanced Lane Finding Project**
@@ -87,7 +87,7 @@ I did this @ my code ( `image_gen-Camera_Center_Cal_Curvature.py.ipynb`)
 
 Here is an example of my result on a test image:
 
-![final][./test_images/image6 final2.jpg]
+![final][./test_images/final2.jpg]
 
 ---
 

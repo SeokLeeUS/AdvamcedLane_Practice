@@ -87,7 +87,7 @@ I did this @ my code ( `image_gen-Camera_Center_Cal_Curvature.py.ipynb`)
 
 Here is an example of my result on a test image:
 
-![final][./test_images/final2.jpg]
+![final](./test_images/final2.jpg)
 
 ---
 

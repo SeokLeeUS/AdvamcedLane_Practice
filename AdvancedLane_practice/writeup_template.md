@@ -1,5 +1,5 @@
 ## Advanced Lane Finding
-![Lanes Image](./test_images/tracked0.jpg)
+![Lanes Image](./test_images/cal_curvature0.jpg)
 ---
 
 **Advanced Lane Finding Project**
